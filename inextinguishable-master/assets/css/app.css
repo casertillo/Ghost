@@ -39,18 +39,17 @@ a.disabled {
   padding: 20px;
 }
 .social{
-  display:inline-block;
-  position: relative;
+
   left: 50%;
 }
 .twitter{
-  display: block;
+  display: inline-block;
   background: url("../images/linkedin.svg");
   width: 32px;
   height: 32px;
 }
 .linkedin{
-  display: block;
+  display: inline-block;
   background: url("../images/twitter.svg");
   width: 32px;
   height: 32px;
