@@ -40,7 +40,11 @@ a.disabled {
 }
 .twitter{
   content: url("../images/linkedin.svg");
+  width: 32px;
+  height: 32px;
 }
 .linkedin{
   content: url("../images/twitter.svg");
+  width: 32px;
+  height: 32px;
 }
