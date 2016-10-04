@@ -44,13 +44,19 @@ a.disabled {
 }
 .twitter{
   display: inline-block;
-  background: url("../images/linkedin.svg");
+  background: url("../images/twitter.svg");
   width: 32px;
   height: 32px;
 }
 .linkedin{
   display: inline-block;
-  background: url("../images/twitter.svg");
+  background: url("../images/linkedin.svg");
+  width: 32px;
+  height: 32px;
+}
+.github{
+  display: inline-block;
+  background: url("../images/github.svg");
   width: 32px;
   height: 32px;
 }
