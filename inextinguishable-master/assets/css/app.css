@@ -38,12 +38,9 @@ a.disabled {
   font-style: italic;
   padding: 20px;
 }
-
-.icon-twitter:before {
-    content: "\f602";
-    font-size: 1.1em;
+.twitter{
+  content: url("../images/linkedin.svg");
 }
-
-.icon-twitter:hover {
-    color: #55acee;
+.linkedin{
+  content: url("../images/twitter.svg");
 }
