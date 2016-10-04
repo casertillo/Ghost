@@ -39,12 +39,20 @@ a.disabled {
   padding: 20px;
 }
 .twitter{
-  content: url("../images/linkedin.svg");
+  display: block;
+  background: url("../images/linkedin.svg");
   width: 32px;
   height: 32px;
 }
 .linkedin{
-  content: url("../images/twitter.svg");
+  display: block;
+  background: url("../images/twitter.svg");
   width: 32px;
   height: 32px;
+}
+/* Hides shit */
+.hidden {
+    text-indent: -9999px;
+    visibility: hidden;
+    display: none;
 }
