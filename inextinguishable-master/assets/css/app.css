@@ -38,6 +38,11 @@ a.disabled {
   font-style: italic;
   padding: 20px;
 }
+.social{
+  display:inline-block;
+  position: relative;
+  left: 50%;
+}
 .twitter{
   display: block;
   background: url("../images/linkedin.svg");
